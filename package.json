@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nakulshaw/To-do-List/issues"
   },
-  "homepage": "https://github.com/nakulshaw/To-do-List#readme"
+  "homepage": "https://github.com/nakulshaw/To-do-List#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
 }
