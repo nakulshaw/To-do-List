@@ -1,0 +1,20 @@
+{
+  "name": "node.js-projects",
+  "version": "1.0.0",
+  "description": "This is CLI to do list app using node.js",
+  "main": "todo.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakulshaw/To-do-List.git"
+  },
+  "author": "Nakul Kumar Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakulshaw/To-do-List/issues"
+  },
+  "homepage": "https://github.com/nakulshaw/To-do-List#readme"
+}
